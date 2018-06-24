@@ -1,0 +1,2 @@
+# LottoNG
+Lotto game
